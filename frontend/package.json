@@ -1,8 +1,8 @@
 {
   "name": "frontend",
-  "description": "A Vue.js project",
+  "description": "A Vue.js projectmaster3",
   "version": "1.0.0",
-  "author": "Milan ghomma Urosevic <kobimilan995@yahoo.com>",
+  "author": "Milan ghommamaster3 Urosevic <kobimilan995@yahoo.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
