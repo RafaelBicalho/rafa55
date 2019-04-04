@@ -1,6 +1,10 @@
 {
   "name": "frontend",
+<<<<<<< HEAD
   "description": "A Vue.js projectmaster3",
+=======
+  "description": "A Vue.js projectmaster2",
+>>>>>>> master2
   "version": "1.0.0",
   "author": "Milan ghommamaster3 Urosevic <kobimilan995@yahoo.com>",
   "license": "MIT",
