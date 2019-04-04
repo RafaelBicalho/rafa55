@@ -1,7 +1,7 @@
 {
   "name": "todo-rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "botafgo",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
