@@ -8,7 +8,7 @@ import moment from 'moment';
 //axios
 import axios from 'axios';
 import VueAxios from 'vue-axios';
-//jquery
+//jquery atencao arfaeal e qaaioo
 import jQuery from 'jquery';
 global.jQuery = jQuery;
 window.moment = moment;
