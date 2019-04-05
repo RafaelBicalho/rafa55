@@ -101,7 +101,7 @@ module.exports = function(app){
             res.send(error);
         });
     });
-    //delete post
+    //delete postrafarafarafarafa
     app.delete('/api/post/delete', authenticate, (req, res) => {
         Post.remove({_id: req.query.post}).then(response => {
             res.send(response);
