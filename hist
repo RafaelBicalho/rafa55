@@ -1,0 +1,337 @@
+    1  pwd
+    2   cd \
+    3  cd ma*
+    4  cd maq*
+    5  pwd
+    6  cd \
+    7  cd /
+    8  pwd
+    9  cd ma*
+   10  dir
+   11  pwd
+   12  dir
+   13  cd \ma*
+   14  cd /ma*
+   15  pwd
+   16  ls
+   17  ls proc
+   18  pwd
+   19  dir
+   20  dir cmd
+   21  git status
+   22  dir
+   23  dir user
+   24  dir usr
+   25  dir usr
+   26  dir cmd
+   27  pwd
+   28  cd c:dir
+   29  cd c:/
+   30  dir
+   31  cd ma*
+   32  cd MA*
+   33  cd gita
+   34  dir
+   35  git status
+   36  git add
+   37  git add .
+   38  git commit -m " rafa rafa"
+   39  git push origin master
+   40  gir remote -v
+   41  git remote -v
+   42  clear
+   43  ls
+   44  dir
+   45  l
+   46  ls
+   47  ls
+   48  git push
+   49  git push  vue-rafa master
+   50  git push origin master
+   51  git status
+   52  git push
+   53  git push .
+   54  dir
+   55  more .git
+   56  cat .git
+   57  type .git
+   58  dir
+   59  dir
+   60  git init
+   61  cd git
+   62  dir
+   63  git add *
+   64  dir
+   65  git add .
+   66  git push origin master
+   67  git remote add vue-pdf-master  https://github.com/RafaelBicalho/vue-pdf-master
+   68  git remote add vue-rafa https://github.com/RafaelBicalho/vue-rafa
+   69  git push vue-rafa  https://github.com/RafaelBicalho/vue-rafa
+   70  git push vue-rafa master
+   71  dir
+   72  git commit -m "rafa"
+   73  git push origin master
+   74  git push vue-rafa master
+   75  git push vue-rafa master
+   76  git remote add vue-rafa master
+   77  git commit -m "rafa"
+   78  dir
+   79  git push vue-rafa master
+   80  git commit vue-rafa
+   81  git merge vue-rafa master
+   82  git add vue-rafa
+   83  git remote vue-rafa master
+   84  git remote add vue-rafa master
+   85  git remote merge vue-rafa mster
+   86  doskey /history
+   87  dosky() /history
+   88  git push vue-rafa vue-rafa
+   89  git push vue-rafa 
+   90  git push vue-rafa master
+   91  git push --set-upstream vue-rafa master
+   92  git push --set-upstream vue-rafa master
+   93  git push vue-rafa
+   94  git push vue-rafa master
+   95  git pull vue-rafa master
+   96  git push vue-rafa master
+   97  git pull vue-rafa master
+   98  git push vue-rafa2 master
+   99  mkdir vue-rafa2
+  100  git push vue-rafa2 master
+  101  git add vue-rafa2
+  102  git push vue-rafa2 master
+  103  git commit
+  104  git push vue-rafa2 master
+  105  pwd
+  106  git push
+  107  git remote add vue-rafa https://github.com/RafaelBicalho/vue-rafa
+  108  git remote add vue-rafa2 https://github.com/RafaelBicalho/vue-rafa2
+  109  mkdir vue-rafa3
+  110  git add vue-rafa3
+  111  git commit vue-rafa3
+  112  git remote add vue-rafa3 https://github.com/RafaelBicalho/vue-rafa3
+  113  cd vue-rafa3
+  114  git init
+  115  dir
+  116  git remote add vue-rafa3 https://github.com/RafaelBicalho/vue-rafa3
+  117  git add
+  118  git add .
+  119  git commit -m " qqqq"
+  120  git remote add vue-rafa3 https://github.com/RafaelBicalho/vue-rafa3
+  121  git push origin master
+  122  git remote add origin  https://github.com/RafaelBicalho/vue-rafa3.git
+  123  git status
+  124  dir
+  125  git add *
+  126  git commit -m "iiiii"
+  127  cd ..
+  128  dir
+  129  cd vue-rafa
+  130  dir
+  131  git init
+  132  git remote add origin  https://github.com/RafaelBicalho/vue-rafa.git
+  133  push origin master
+  134  git push oringin master
+  135  git add .
+  136  git commit -m "proim"
+  137  git push origin master .
+  138  git push origin master 
+  139  git push --help
+  140  git pull
+  141  dir
+  142  git push origin master 
+  143  git pull
+  144  git pull  https://github.com/RafaelBicalho/vue-rafa.git master
+  145  git pull  https://github.com/RafaelBicalho/vue-rafa.git rafa1
+  146  git pull  https://github.com/RafaelBicalho/vue-rafa.git origin
+  147  git pull  https://github.com/RafaelBicalho/vue-rafa.git master
+  148  git push origin master 
+  149  git commit
+  150  git add *
+  151  git commit
+  152  git push origin master 
+  153  git pull  https://github.com/RafaelBicalho/vue-rafa.git master
+  154  pwd
+  155  dir
+  156  pwd
+  157  cd ..
+  158  cd rafa33
+  159  git remote add origin https://github.com/RafaelBicalho/rafa33.git
+  160  git push -U origin master
+  161  git push -u origin master
+  162  dir
+  163  cd ../../gitb
+  164  dir
+  165  clear
+  166  git remote add origin https://github.com/RafaelBicalho/rafa44.git
+  167  pwd
+  168  git init
+  169  git commit -m "qq'
+  170  git commit -m ""aa"
+  171  git commit -m "rafafasfk"
+  172  cd ../../gitc/rafa44
+  173  cd ../
+  174  cd gitc
+  175  cd rafa44
+  176  dir
+  177  git remote add origin https://github.com/RafaelBicalho/rafa44.git
+  178  git init
+  179  git remote add origin https://github.com/RafaelBicalho/rafa44.git
+  180  git push -u origin master
+  181  git commit -m "rafa"
+  182  git remote add origin https://github.com/RafaelBicalho/rafa44.git
+  183  git push -u origin master
+  184  git push origin master
+  185  git remote add origin https://github.com/RafaelBicalho/rafa44.git
+  186  git push origin master
+  187  git push -u origin master
+  188  git commit
+  189  git add .
+  190  git commit
+  191  git push -u origin master
+  192  git commit -m "rafa"
+  193  git push -u origin master
+  194  HISTORY
+  195  history
+  196  history > rafa
+  197  type rafa
+  198  cat rafa
+  199  cat rafa |more
+  200  cat rafa | more
+  201  cat rafa
+  202  cd ../../
+  203  cd gitd
+  204  cd rafa55
+  205  dir
+  206  git init
+  207  git add .
+  208  git commit -m "ghma"
+  209  git remote add origin https://github.com/RafaelBicalho/rafa55.git
+  210  git push -u origin master
+  211  pwd
+  212  git commit -m "ghoma2'
+  213  git commit -m "ghma2"
+  214  git status
+  215  git add
+  216  git add .
+  217  git commit -m "ghma2"
+  218  git push -u origin master
+  219  git pull
+  220  git status
+  221  git checkout master2
+  222  git add .
+  223  git commit -m "rafas"
+  224  git origin master2
+  225  git push origin master2
+  226  history
+  227  git checkout master3
+  228  git pull
+  229  git checkout master3
+  230  git add .
+  231  git commit -m "novo55"
+  232  git push origin master3
+  233  git checkout master2
+  234  git merge master
+  235  git checkout master3
+  236  git merge master
+  237  git add .
+  238  git commit -m "gh4"
+  239  git merge master
+  240  git checkout master2
+  241  git add .
+  242  git commit -m "gggg55"
+  243  git merge master
+  244  git checkout master
+  245  git add .
+  246  git commit -m "merge"
+  247  git merge master2
+  248  git merge master3
+  249  gi chekout master3
+  250  git checkout master3
+  251  cd frontend
+  252  dir
+  253  git merge master
+  254  die
+  255  dir
+  256  cd
+  257  git checkout master2
+  258  pwd
+  259  cd ma*
+  260  cd \
+  261  cd /
+  262  cd MA*
+  263  dir
+  264  cd c:/
+  265  dir
+  266  cd MA*
+  267  cd git5
+  268  cd gitd
+  269  dir
+  270  git checkout master2
+  271  git checkout master
+  272  p
+  273  dir
+  274  cd rafa55
+  275  git checkout master2
+  276  git merge master
+  277  git add .
+  278  git commit -m "m2"
+  279  git checkout master3
+  280  git add .
+  281  git commit -m "m3"
+  282  git checkout master
+  283  git checkout master3
+  284  git push origin master3
+  285  git checkout master2
+  286  git push origin master2
+  287  git checkout master
+  288  git push origin master
+  289  git merge master3
+  290  git merge master2
+  291  git checkout master2
+  292  git merge master
+  293  git merge master2
+  294  git merge master3
+  295  git add .
+  296  git commit -m "fim"
+  297  git checkout master3
+  298  git merge master2
+  299  dir
+  300  git commit -m "mm222"
+  301  git add .
+  302  git commit -m "certo55"
+  303  git checkout master2
+  304  git merge master3
+  305  git add .
+  306  git commit -m "cert666"
+  307  git push origin master2
+  308  clear
+  309  git checkout master3
+  310  git push origin master3
+  311  clear
+  312  ls
+  313  git checkout master2
+  314  git checkout master
+  315  git add .
+  316  git commit -m "fafafa00"
+  317  git push origin master
+  318  git pull
+  319  pwd
+  320  git checkout master3
+  321  git pull
+  322  git add .
+  323  git commit -m "rara"
+  324  git merge master
+  325  git add .
+  326  git commit -m "raa"
+  327  git add .
+  328  git commit -m "qwq1111"
+  329  git push origin master3
+  330  clear
+  331  ls
+  332  clear
+  333  ls
+  334  dir
+  335  ls
+  336  pwd
+  337  history > hist
